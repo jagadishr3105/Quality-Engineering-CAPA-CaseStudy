@@ -62,7 +62,7 @@ Bonding failures increased from 2% to 6% over two weeks, contributing to 41% of 
 ## Tools & Skills Demonstrated
 
 - Pareto & Root Cause Analysis
-- Statistical Process Control (SPC)
 - Control Charts (p-chart)
 - FMEA risk prioritization
 - CAPA implementation planning
+- Report writing for quality investigations
