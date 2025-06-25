@@ -8,12 +8,12 @@ This project investigates a spike in bonding failures on a catheter assembly pro
 
 ## Files Included
 
-| File | Description |
-|------|-------------|
-| `Fishbone_Diagram_Bonding_Failure_Catheter_Assembly_LineA.png` | Visual breakdown of potential causes |
-| `FMEA_Template_BondingFailure.xlsx` | Risk analysis with RPN scoring |
-| `Control_Chart_BondingFailure.xlsx` | p-Chart for proportion of daily bonding defects |
-| `CAPA_Report_BondingFailure_Jagadish_Updated.docx` | Final summary and action plan |
+| File Name                                            | Description                                               |
+|------------------------------------------------------|-----------------------------------------------------------|
+| 5Whys_BondingFailure_Analysis.pdf                    | Root cause investigation using 5 Whys method              |
+| Analysis.xlsx                                        | Data analysis file containing control chart and defect log |
+| Corrective and Preventive Action (CAPA) Report.docx  | Final CAPA summary report with corrective actions         |
+| Fishbone_diagram.drawio.png                          | Fishbone diagram outlining root cause categories          |
 
 ---
 
