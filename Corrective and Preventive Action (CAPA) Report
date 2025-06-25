@@ -1,0 +1,75 @@
+# Corrective and Preventive Action (CAPA) Report
+
+**Project Title:** Bonding Failure Root Cause Case Study  
+**Department:** Quality Engineering  
+**Date:** June 25, 2025  
+**Prepared by:** Jagadish Ravulapalli  
+
+---
+
+## 1. Problem Statement
+
+Over the past two weeks, the bonding failure rate on Catheter Assembly Line A increased from 2% to approximately 6%, resulting in a drop in production yield from 98% to 91%.  
+This issue represented over 40% of total recorded defects and posed a significant risk to product quality and throughput.
+
+---
+
+## 2. Investigation Summary
+
+The issue was analyzed using structured quality engineering tools:
+
+- Pareto Analysis identified bonding failure as the top defect (41%).
+- 5 Whys revealed inconsistent UV curing as the root cause, due to lack of a standardized SOP.
+- Fishbone diagram categorized contributing factors under Man, Machine, Method, Material, Measurement, and Environment.
+- FMEA assigned the highest RPN (240) to the inconsistent curing process.
+- p-Chart revealed process instability on one date (June 10), indicating special cause variation.
+
+---
+
+## 3. Root Cause
+
+The root cause of the bonding failure was the absence of a standardized curing procedure in the SOP, leading to operator-dependent variation in UV exposure time and technique.  
+Contributing factors included aging equipment, lack of visual curing indicators, and insufficient operator training.
+
+---
+
+## 4. Risk Assessment (FMEA)
+
+The FMEA assigned:
+- Severity = 8  
+- Occurrence = 6  
+- Detection = 5  
+
+This resulted in a Risk Priority Number (RPN) of 240, indicating a high-priority issue requiring immediate corrective and preventive actions.
+
+---
+
+## 5. Control Chart Analysis (p-Chart)
+
+The process was monitored over a 30-day period using a p-chart. One data point on June 10 exceeded the Upper Control Limit (UCL), indicating a statistically out-of-control condition.  
+This supports the conclusion that a special cause — likely tied to operator error or equipment malfunction — was present on that date.
+
+---
+
+## 6. Corrective Actions (CA)
+
+1. Develop and implement a detailed SOP for UV curing, specifying curing time, distance, and lamp specifications.  
+2. Replace aging UV curing lamps and introduce calibration verification routines.  
+3. Conduct 100% inspection for bonding integrity on all parts for one week.
+
+---
+
+## 7. Preventive Actions (PA)
+
+1. Create a structured operator training program with sign-off tracking.  
+2. Implement a FIFO tracking system for adhesive inventory control.  
+3. Perform weekly bonding defect trend analysis using p-charts to ensure ongoing process stability.
+
+---
+
+## 8. Outcome and Follow-Up
+
+Corrective and preventive actions are expected to reduce bonding failures and return the process to statistical control.  
+Effectiveness will be monitored through updated control charts and routine audits over the next 30 days.
+
+---
