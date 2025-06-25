@@ -1,12 +1,12 @@
-# 📋 Quality Engineering Case Study: Bonding Failure in Catheter Assembly Line
+# Quality Engineering Case Study: Bonding Failure in Catheter Assembly Line
 
-## 🔍 Overview
+## Overview
 
 This project investigates a spike in bonding failures on a catheter assembly production line. Using core quality tools like Pareto Analysis, 5 Whys, Fishbone Diagram, FMEA, and a p-Chart, I identified root causes and proposed corrective and preventive actions (CAPA).
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 | File | Description |
 |------|-------------|
@@ -17,27 +17,27 @@ This project investigates a spike in bonding failures on a catheter assembly pro
 
 ---
 
-## ⚠️ Problem Statement
+## Problem Statement
 
 Bonding failures increased from 2% to 6% over two weeks, contributing to 41% of total defects and reducing yield from 98% to 91%.
 
 ---
 
-## 🔍 Root Cause Analysis
+##  Root Cause Analysis
 
 - **5 Whys** identified inconsistent curing times due to lack of SOP and operator training.
 - **Fishbone diagram** mapped broader contributing factors: method, machine, material, manpower, measurement, and environment.
 
 ---
 
-## ✅ FMEA Findings
+## FMEA Findings
 
 - Highest RPN: **240** for “Inconsistent curing time”
 - Priority action: Create standard UV curing SOP and retrain operators
 
 ---
 
-## 📊 Control Chart Results
+## Control Chart Results
 
 - **Tool Used**: p-Chart (proportion-based chart with variable sample sizes)
 - One point (June 10) outside UCL → **Special cause variation**
@@ -45,7 +45,7 @@ Bonding failures increased from 2% to 6% over two weeks, contributing to 41% of 
 
 ---
 
-## 🔧 CAPA Summary
+##  CAPA Summary
 
 ### Corrective Actions:
 - Create a detailed SOP for UV curing
@@ -59,7 +59,7 @@ Bonding failures increased from 2% to 6% over two weeks, contributing to 41% of 
 
 ---
 
-## 💡 Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 
 - Pareto & Root Cause Analysis
 - Statistical Process Control (SPC)
